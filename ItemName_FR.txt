@@ -1,0 +1,7 @@
+ItemName_FR = {
+    ItemName_E0BExtraSkillBooks.BookWoodcutting1 = "Abattage du bois Vol.1: Débutant",
+    ItemName_E0BExtraSkillBooks.BookWoodcutting2 = "Abattage du bois Vol.2: Intermédiaire",
+    ItemName_E0BExtraSkillBooks.BookWoodcutting3 = "Abattage du bois Vol.3: Avancé",
+    ItemName_E0BExtraSkillBooks.BookWoodcutting4 = "Abattage du bois Vol.4: Expert",
+    ItemName_E0BExtraSkillBooks.BookWoodcutting5 = "Abattage du bois Vol.5: Maître",
+}
